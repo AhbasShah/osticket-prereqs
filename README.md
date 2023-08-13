@@ -40,7 +40,7 @@ Once your VM is deployed, make sure you note down the public IP address, as you'
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="615" alt="Screenshot 2023-08-13 at 4 20 44 PM" src="https://github.com/AhbasShah/osticket-prereqs/assets/141075365/34c95703-d482-4f3c-9721-e28a38dcfbbd">
 </p>
 <p>
 On your local machine, search for "Remote Desktop Connection" (or use an alternative RDP client).
@@ -50,7 +50,7 @@ Provide the username and password you set during VM creation.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="856" alt="Screenshot 2023-08-13 at 6 34 31 PM" src="https://github.com/AhbasShah/osticket-prereqs/assets/141075365/80b0bc18-1206-4a0c-988c-5afdb65f5a06">
 </p>
 <p>
 Once connected to the VM through Remote Desktop, you're inside the VM's environment.
@@ -59,7 +59,7 @@ Install a web server, database server, and PHP (such as XAMPP or WAMP for Window
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="543" alt="Screenshot 2023-08-13 at 6 36 39 PM" src="https://github.com/AhbasShah/osticket-prereqs/assets/141075365/8d40f3dc-0897-4646-b514-6592abcc50ed">
 </p>
 <p>
 Inside the VM's Remote Desktop session, open a web browser.
@@ -69,7 +69,7 @@ Download the latest version of osTicket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="318" alt="Screenshot 2023-08-13 at 6 44 28 PM" src="https://github.com/AhbasShah/osticket-prereqs/assets/141075365/e58237d8-2b66-4cf0-b342-ed2309d58f15">
 </p>
 <p>
 Set up a MySQL server or use an existing one.
@@ -78,7 +78,7 @@ Create a database and user for osTicket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="538" alt="Screenshot 2023-08-13 at 6 48 09 PM" src="https://github.com/AhbasShah/osticket-prereqs/assets/141075365/ce70abc5-c61f-4bf0-b6a8-f004fdfb65d9">
 </p>
 <p>
 Open a web browser within the VM's Remote Desktop session.
